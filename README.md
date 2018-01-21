@@ -1,2 +1,7 @@
 # YUGU1162bJavaLab
-simple lab work
+YUGU 1162b group lab works.
+
+Tested on OpenJDK.
+
+Build example: 
+javac <part_num>/*.java
